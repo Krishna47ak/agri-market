@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9750fed.css",
+    "main.js": "/static/js/main.fd30d625.js",
+    "static/media/banner-bg.png": "/static/media/banner-bg.05b19d92c1afa5efd740.png",
+    "static/media/plant-spinner.gif": "/static/media/plant-spinner.13553ec77cf58bb6aca2.gif",
+    "static/media/harvest.png": "/static/media/harvest.7bd5ce153b8012b9f191.png",
+    "static/media/harvest-solid.png": "/static/media/harvest-solid.72e43ee0eea56f9132ab.png",
+    "index.html": "/index.html",
+    "main.b9750fed.css.map": "/static/css/main.b9750fed.css.map",
+    "main.fd30d625.js.map": "/static/js/main.fd30d625.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9750fed.css",
+    "static/js/main.fd30d625.js"
+  ]
+}
